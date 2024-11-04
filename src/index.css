@@ -1,4 +1,4 @@
-/* @tailwind base;
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -15,4 +15,4 @@ body{
 #tasklist::-webkit-scrollbar-thumb{
   background-color: rgb(143, 143, 143);
   border-radius: 50px;
-} */
+}
